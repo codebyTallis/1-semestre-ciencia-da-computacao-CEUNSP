@@ -96,7 +96,8 @@ int main (){
 		}
 	
 	printf("\n\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
-	printf ("\n\nObrigado por utilizar nosso sistema! Nos vemos nos próximos semestres!\nby Tallis Brean RGM: 29107890.\n\n");
+	printf ("\n\nObrigado por utilizar nosso sistema! Nos vemos nos próximos semestres!\nby Tallis Brean
+	.\n\n");
 	printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\n");
 	
 	system ("pause");
